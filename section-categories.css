@@ -1,0 +1,144 @@
+.section-categories {
+	position: relative;
+	padding-top: 40px;
+}
+
+
+.list-interested {
+	list-style: none;
+	margin: 0 -16px 0 0;
+	padding: 0;
+	display: flex;
+}
+
+.grid-list {
+	width: 25%;
+	vertical-align: top;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+.grid-list-inner {
+	box-sizing: border-box;
+	height: 100%;
+	padding: 0 16px 16px 0;
+}
+.card {
+	display: block;
+	border: none;
+}
+
+.card h4 {
+	color: #212121;
+	font-size: 16px;
+	font-weight: 550 !important;
+	margin: 8px 0px 0px;
+
+}
+
+.card-outdoors,.card-tech, .card-family, .card-health,
+.card-fitness, .card-learning, .card-photography, .card-food,
+.card-writing, .card-language, .card-music, .card-movements,
+.card-lgbt, .card-film, .card-games, .card-beliefs,
+.card-arts, .card-book, .card-dance, .card-pets,
+.card-hobbies, .card-fashion, .card-social, .card-career {
+	background-position: center center;
+	background-size: cover;
+	border: 1px solid rgba(46, 62, 72, .12);
+	border-radius: 8px;
+	min-height: 160px;
+}
+
+.card-outdoors {
+	background-image: url(./img/card/outdoors.jpeg);
+}
+
+.card-tech {
+	background-image: url(./img/card/tech.jpeg);
+}
+
+.card-family {
+	background-image: url(./img/card/family.jpeg);
+}
+
+.card-health {
+	background-image: url(./img/card/health.jpeg);
+}
+
+.card-fitness {
+	background-image: url(./img/card/fitness.jpeg);
+}
+
+.card-learning {
+	background-image: url(./img/card/learning.jpeg);
+}
+
+.card-photography {
+	background-image: url(./img/card/photography.jpeg);
+}
+
+.card-food {
+	background-image: url(./img/card/food.jpeg);
+}
+
+.card-writing {
+	background-image: url(./img/card/writing.jpeg);
+}
+
+.card-language {
+	background-image: url(./img/card/language.jpeg);
+} 
+
+.card-music {
+	background-image: url(./img/card/music.jpeg);
+}
+
+.card-movements {
+	background-image: url(./img/card/movements.jpeg);
+}
+
+.card-lgbt {
+	background-image: url(./img/card/lgbt.jpeg);
+}
+.card-film {
+	background-image: url(./img/card/film.jpeg);
+}
+.card-games{
+	background-image: url(./img/card/games.jpeg);
+}
+
+.card-beliefs {
+	background-image: url(./img/card/beliefs.jpeg);
+}
+
+.card-arts {
+	background-image: url(./img/card/arts.jpeg);
+}
+
+.card-book {
+	background-image: url(./img/card/book.jpeg);
+}
+
+.card-dance {
+	background-image: url(./img/card/dance.jpeg);
+}
+
+.card-pets {
+	background-image: url(./img/card/pets.jpeg);
+}
+
+.card-hobbies {
+	background-image: url(./img/card/hobbies.jpeg);
+}
+
+.card-fashion {
+	background-image: url(./img/card/fashion.jpeg);
+}
+
+.card-social {
+	background-image: url(./img/card/social.jpeg);
+}
+
+.card-career {
+	background-image: url(./img/card/career.jpeg);
+}
