@@ -1,0 +1,40 @@
+body {
+font-family: arial, sans-serif;
+font-size: 14px;
+margin:0px;
+}
+
+.header {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 10px;
+}
+
+.logo {
+    height: auto;
+	width: 70%;
+}
+
+.img-logo {
+	height: 44px;
+}
+
+.start-a-new-group {
+	display: flex;
+	justify-content: flex-end;
+	padding: 10px 20px;
+	font-weight: 600;
+	width: 15%;
+	color: #00A2C7!important;
+	border-right: 1px solid rgba(46,62,72,.12);
+}
+
+.login, .signup {
+	padding-left: 20px;
+	color: #757575;
+}
+
+.login:hover, .signup:hover {
+	color: #0098AB;
+}
