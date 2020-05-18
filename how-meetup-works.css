@@ -1,0 +1,67 @@
+.how-meetup-works {
+	background-color: #0F1721;
+	margin-top: 20px;
+	padding: 20px 0px;
+}
+
+.sections {
+	margin: 0px 20px;
+	padding-top: 40px;
+}
+
+.section-title {
+	color: #FFF;
+	text-align: center!important;
+	margin-bottom: 8px;
+    font-weight: 550;
+    line-height: 1.2;
+}
+
+.section-others {
+	display: flex;
+	padding: 20px 0px;
+}
+
+.icon-search, .icon-plus {
+	color: #00A2C7;
+}
+.section-discover, .section-start {
+	display: flex;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
+.section-start {
+	padding-left: 20px;
+}
+
+.content-discover, .content-start {
+	padding-left: 20px;
+}
+
+.text-big {
+	color: #FFF;
+}
+
+.text-normal {
+	font-size: 16px;
+	color: #FFF;
+}
+
+.text-link {
+	color: #00A2C7 !important;
+}
+
+.text-link:hover {
+	text-decoration: none;
+	color: #00A2C7 !important;
+}
+
+.text-blue {
+	font-size: 16px;
+	font-weight: 550;
+}
+
+.icon-arrow {
+	padding-left: 15px;
+}
